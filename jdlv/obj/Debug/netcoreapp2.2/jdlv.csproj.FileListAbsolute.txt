@@ -1,0 +1,11 @@
+/home/sean/Documents/c#/jdlv/bin/Debug/netcoreapp2.2/jdlv.deps.json
+/home/sean/Documents/c#/jdlv/bin/Debug/netcoreapp2.2/jdlv.runtimeconfig.json
+/home/sean/Documents/c#/jdlv/bin/Debug/netcoreapp2.2/jdlv.runtimeconfig.dev.json
+/home/sean/Documents/c#/jdlv/bin/Debug/netcoreapp2.2/jdlv.dll
+/home/sean/Documents/c#/jdlv/bin/Debug/netcoreapp2.2/jdlv.pdb
+/home/sean/Documents/c#/jdlv/obj/Debug/netcoreapp2.2/jdlv.csprojAssemblyReference.cache
+/home/sean/Documents/c#/jdlv/obj/Debug/netcoreapp2.2/jdlv.csproj.CoreCompileInputs.cache
+/home/sean/Documents/c#/jdlv/obj/Debug/netcoreapp2.2/jdlv.AssemblyInfoInputs.cache
+/home/sean/Documents/c#/jdlv/obj/Debug/netcoreapp2.2/jdlv.AssemblyInfo.cs
+/home/sean/Documents/c#/jdlv/obj/Debug/netcoreapp2.2/jdlv.dll
+/home/sean/Documents/c#/jdlv/obj/Debug/netcoreapp2.2/jdlv.pdb

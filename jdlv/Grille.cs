@@ -8,7 +8,7 @@ namespace jdlv
         private int largeur;
         private int longueur;
         private int depart;
-        List<List<Cellule>> grille = new List<List<Cellule>>();
+        public List<List<Cellule>> grille = new List<List<Cellule>>();
 
         public Grille(int largeur, int longueur, int depart)
         {

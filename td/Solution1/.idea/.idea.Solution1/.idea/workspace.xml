@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afd45696-15a3-45b7-b5a0-2455b8401bc3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="afd45696-15a3-45b7-b5a0-2455b8401bc3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +89,16 @@
       <updated>1569520290904</updated>
       <workItem from="1569520297088" duration="8867000" />
       <workItem from="1569681684569" duration="479000" />
-      <workItem from="1569682456436" duration="582000" />
+      <workItem from="1569682456436" duration="775000" />
     </task>
+    <task id="LOCAL-00001" summary="beuleu">
+      <created>1569683051258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569683051258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="beuleu" />
+    <option name="LAST_COMMIT_MESSAGE" value="beuleu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -106,15 +106,13 @@ namespace ConsoleApp1
             return tris;
 
         }
-
         public void AfficherPersonne()
         {
-            foreach (Personne pers in liste)
+            foreach (var pers in liste)
             {
                 Console.WriteLine(pers.Identite);
             }
         }
-
         public List<Personne> RechercherParService(Service service)
         {
             List<Personne> tris=new List<Personne>();
@@ -128,9 +126,5 @@ namespace ConsoleApp1
             }
             return tris;
         }
-        
-        
-        
-        
     }
 }

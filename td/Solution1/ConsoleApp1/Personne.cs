@@ -4,12 +4,12 @@ namespace ConsoleApp1
 {
     public class Personne
     {
-        private int id;
-        private string nom;
-        private string prenom;
-        private DateTime dateDeNaissance;
-        private double salaireBrut;
-        private Service service;
+        protected int id;
+        protected string nom;
+        protected string prenom;
+        protected DateTime dateDeNaissance;
+        protected double salaireBrut;
+        protected Service service;
 
         public Personne(int id, string nom, string prenom, DateTime dateDeNaissance) : this(id, nom, prenom, dateDeNaissance, new Service(0,"billi"))
         {
@@ -78,12 +78,12 @@ namespace ConsoleApp1
             }
         }
 
-        public double SalaireNet
+        virtual public double SalaireNet
         {
             get { return SalaireBrut * 0.8; }
         }
 
-        public string Identite
+        virtual public string Identite
         {
             get { return string.Format("{0}, {1}, {2}, {3} ans, {4:C}, service : {5}", id, nom, prenom, Age, SalaireNet, service.Libelle); }
         }

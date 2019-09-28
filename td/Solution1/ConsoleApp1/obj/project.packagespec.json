@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/sean/RiderProjects/Solution1/ConsoleApp1/ConsoleApp1.csproj",
+    "projectUniqueName": "/home/sean/Documents/c#/td/Solution1/ConsoleApp1/ConsoleApp1.csproj",
     "projectName": "ConsoleApp1",
-    "projectPath": "/home/sean/RiderProjects/Solution1/ConsoleApp1/ConsoleApp1.csproj",
-    "outputPath": "/home/sean/RiderProjects/Solution1/ConsoleApp1/obj/",
+    "projectPath": "/home/sean/Documents/c#/td/Solution1/ConsoleApp1/ConsoleApp1.csproj",
+    "outputPath": "/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.2"

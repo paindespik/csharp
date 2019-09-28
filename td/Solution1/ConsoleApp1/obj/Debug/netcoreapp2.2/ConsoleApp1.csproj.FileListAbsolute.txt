@@ -9,3 +9,14 @@
 /home/sean/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.cs
 /home/sean/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll
 /home/sean/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.json
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.dev.json
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfoInputs.cache
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.cs
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll
+/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb

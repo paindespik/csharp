@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sean/RiderProjects/Solution1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/sean/Documents/c#/td/Solution1/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/sean/RiderProjects/Solution1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/home/sean/Documents/c#/td/Solution1/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/sean/.nuget/packages/",
-      "outputPath": "/home/sean/RiderProjects/Solution1/ConsoleApp1/obj/",
+      "outputPath": "/home/sean/Documents/c#/td/Solution1/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sean/.config/NuGet/NuGet.Config"
